@@ -5,8 +5,8 @@ require 'fileutils'
 require 'zip'
 
 base_url = 'https://shdev.preview.saleshood.com'
-username = '*****'
-password = '*****'
+username = 'minhluan'
+password = 'minhluan'
 artwork_folder = 'artworks'
 zip_folder = 'artworks.zip'
 

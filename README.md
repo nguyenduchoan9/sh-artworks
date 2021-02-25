@@ -1,8 +1,11 @@
-Prerequesite
+# SalesHood Artwoks
 
-Update Chrome Driver
+## Prerequesite
+
+### Update Chrome Driver
 
 MacOS: Run the command
 
 brew upgrade chromedriver
-# SalesHood Artwoks
+
+### Update username and password in main.rb
